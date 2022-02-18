@@ -1,0 +1,12 @@
+C:\Cadastro Friend\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DbPessoa.mdf
+C:\Cadastro Friend\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DbPessoa_log.ldf
+C:\Cadastro Friend\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Cadastro Friend\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Cadastro Friend\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Cadastro Friend\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Cadastro Friend.csprojAssemblyReference.cache
+C:\Cadastro Friend\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cadastro_Friend.resources
+C:\Cadastro Friend\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Cadastro Friend\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Cadastro Friend.csproj.GenerateResource.cache
+C:\Cadastro Friend\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Cadastro Friend.csproj.CoreCompileInputs.cache
+C:\Cadastro Friend\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Cadastro Friend\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
